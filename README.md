@@ -17,7 +17,8 @@ This is a simple chat application built with NodeJS as the back-end and Twitter 
 
 1. Download the Zip file to a folder.
 2. Navigate to the root folder and run the 'npm install' command.
-3. Navigate to 'localhost:2500'.
+3. To start the application use the command 'node server'.
+4. Navigate to 'localhost:2500'.
 
 
 ===============
