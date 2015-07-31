@@ -1,7 +1,7 @@
 BootChat
 ===============
 
-This is a simple chat application built with NodeJS as the back-end and Twitter Bootstrap to make it look pretty.
+This is a simple chat application built with NodeJS as the back-end and Twitter Bootstrap to make it look pretty. It purpose is to demonstrate the how simple it can be to construct a chat application using Node.
 
 ===============
 
