@@ -43,5 +43,5 @@ This is a simple chat application built with NodeJS as the back-end and Twitter 
 Developed by Niall Lonergan (nyl2k8@gmail.com)
 
 web:     [niall.ws](http://www.niall.ws) <br />
-twitter: [@nyl2k8](https://twitter.com/nyl2k8) <br />
+twitter: [@niall_lonergan](https://twitter.com/niall_lonergan) <br />
 google+: [+Niall](https://plus.google.com/u/0/117475392576267866541/posts) <br />
