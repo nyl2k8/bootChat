@@ -13,7 +13,7 @@ This is a simple chat application built with NodeJS as the back-end and Twitter 
 
 ===============
 
-[![Travis](https://travis-ci.org/nyl2k8/bootChat.svg)]()
+[![Travis](https://travis-ci.org/nyl2k8/bootChat.svg?branch=master)]()
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 ###Instructions:
