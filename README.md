@@ -13,6 +13,9 @@ This is a simple chat application built with NodeJS as the back-end and Twitter 
 
 ===============
 
+[![Travis](https://travis-ci.org/nyl2k8/bootChat.svg)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+
 ###Instructions:
 
 1. Download the Zip file to a folder.
