@@ -1,16 +1,18 @@
-/* Custom CSS */
+/* Custom CSS
+* Adding test line.
+*/
 
-textarea{ 
-  width: 100%; 
-  min-width:100%; 
-  max-width:100%; 
+textarea{
+  width: 100%;
+  min-width:100%;
+  max-width:100%;
 
-  height:200px; 
-  min-height:200px;  
+  height:200px;
+  min-height:200px;
   max-height:200px;
 }
 
-textarea{ 
+textarea{
     background-color:white !important;
 }
 
@@ -35,4 +37,4 @@ textarea{
 
 hr{
   width: 95%;
-}    
+}
